@@ -7,3 +7,5 @@ Task 2 - Load a CSV file into a Pandas DataFrame. Perform operations like filter
 Task 3 - Create a bar chart and a line chart using Matplotlib to visualize data from a Pandas DataFrame. Customize the charts with labels, titles, and legends.
 
 Task 4 - Create visualizations to understand the distribution of variables, identify outliers, and check for correlations between variables.
+
+Task 5 - Engineer new features and select relevant features for model training.
